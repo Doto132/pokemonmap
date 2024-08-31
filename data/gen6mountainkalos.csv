@@ -1,0 +1,152 @@
+pokemon_name,pokedex_num,pkmn,type1,type2
+Diglett,#001,Diglett,Ground,null
+Dugtrio,#002,Dugtrio,Ground,null
+Trapinch,#003,Trapinch,Ground,null
+Vibrava,#004,Vibrava,Ground · Dragon,null
+Flygon,#005,Flygon,Ground · Dragon,null
+Gible,#006,Gible,Dragon · Ground,null
+Gabite,#007,Gabite,Dragon · Ground,null
+Garchomp,#008,Garchomp,Dragon · Ground,null
+Geodude,#009,Geodude,Rock · Ground,null
+Graveler,#010,Graveler,Rock · Ground,null
+Golem,#011,Golem,Rock · Ground,null
+Slugma,#012,Slugma,Fire,null
+Magcargo,#013,Magcargo,Fire · Rock,null
+Shuckle,#014,Shuckle,Bug · Rock,null
+Skorupi,#015,Skorupi,Poison · Bug,null
+Drapion,#016,Drapion,Poison · Dark,null
+Wooper,#017,Wooper,Water · Ground,null
+Quagsire,#018,Quagsire,Water · Ground,null
+Goomy,#019,Goomy,Dragon,null
+Sliggoo,#020,Sliggoo,Dragon,null
+Goodra,#021,Goodra,Dragon,null
+Karrablast,#022,Karrablast,Bug,null
+Escavalier,#023,Escavalier,Bug · Steel,null
+Shelmet,#024,Shelmet,Bug,null
+Accelgor,#025,Accelgor,Bug,null
+Bellsprout,#026,Bellsprout,Grass · Poison,null
+Weepinbell,#027,Weepinbell,Grass · Poison,null
+Victreebel,#028,Victreebel,Grass · Poison,null
+Carnivine,#029,Carnivine,Grass,null
+Gastly,#030,Gastly,Ghost · Poison,null
+Haunter,#031,Haunter,Ghost · Poison,null
+Gengar,#032,Gengar,Ghost · Poison,null
+Poliwag,#033,Poliwag,Water,null
+Poliwhirl,#034,Poliwhirl,Water,null
+Poliwrath,#035,Poliwrath,Water · Fighting,null
+Politoed,#036,Politoed,Water,null
+Ekans,#037,Ekans,Poison,null
+Arbok,#038,Arbok,Poison,null
+Stunfisk,#039,Stunfisk,Ground · Electric,null
+Barboach,#040,Barboach,Water · Ground,null
+Whiscash,#041,Whiscash,Water · Ground,null
+Purrloin,#042,Purrloin,Dark,null
+Liepard,#043,Liepard,Dark,null
+Poochyena,#044,Poochyena,Dark,null
+Mightyena,#045,Mightyena,Dark,null
+Patrat,#046,Patrat,Normal,null
+Watchog,#047,Watchog,Normal,null
+Pawniard,#048,Pawniard,Dark · Steel,null
+Bisharp,#049,Bisharp,Dark · Steel,null
+Klefki,#050,Klefki,Steel · Fairy,null
+Murkrow,#051,Murkrow,Dark · Flying,null
+Honchkrow,#052,Honchkrow,Dark · Flying,null
+Foongus,#053,Foongus,Grass · Poison,null
+Amoonguss,#054,Amoonguss,Grass · Poison,null
+Lotad,#055,Lotad,Water · Grass,null
+Lombre,#056,Lombre,Water · Grass,null
+Ludicolo,#057,Ludicolo,Water · Grass,null
+Buizel,#058,Buizel,Water,null
+Floatzel,#059,Floatzel,Water,null
+Basculin,#060,Basculin,Water,null
+Phantump,#061,Phantump,Ghost · Grass,null
+Trevenant,#062,Trevenant,Ghost · Grass,null
+Pumpkaboo,#063,Pumpkaboo,Ghost · Grass,null
+Gourgeist,#064,Gourgeist,Ghost · Grass,null
+Litwick,#065,Litwick,Ghost · Fire,null
+Lampent,#066,Lampent,Ghost · Fire,null
+Chandelure,#067,Chandelure,Ghost · Fire,null
+Rotom,#068,Rotom,Electric · Ghost,null
+Magnemite,#069,Magnemite,Electric · Steel,null
+Magneton,#070,Magneton,Electric · Steel,null
+Magnezone,#071,Magnezone,Electric · Steel,null
+Voltorb,#072,Voltorb,Electric,null
+Electrode,#073,Electrode,Electric,null
+Trubbish,#074,Trubbish,Poison,null
+Garbodor,#075,Garbodor,Poison,null
+Swinub,#076,Swinub,Ice · Ground,null
+Piloswine,#077,Piloswine,Ice · Ground,null
+Mamoswine,#078,Mamoswine,Ice · Ground,null
+Bergmite,#079,Bergmite,Ice,null
+Avalugg,#080,Avalugg,Ice,null
+Cubchoo,#081,Cubchoo,Ice,null
+Beartic,#082,Beartic,Ice,null
+Smoochum,#083,Smoochum,Ice · Psychic,null
+Jynx,#084,Jynx,Ice · Psychic,null
+Vanillite,#085,Vanillite,Ice,null
+Vanillish,#086,Vanillish,Ice,null
+Vanilluxe,#087,Vanilluxe,Ice,null
+Snover,#088,Snover,Grass · Ice,null
+Abomasnow,#089,Abomasnow,Grass · Ice,null
+Delibird,#090,Delibird,Ice · Flying,null
+Sneasel,#091,Sneasel,Dark · Ice,null
+Weavile,#092,Weavile,Dark · Ice,null
+Timburr,#093,Timburr,Fighting,null
+Gurdurr,#094,Gurdurr,Fighting,null
+Conkeldurr,#095,Conkeldurr,Fighting,null
+Torkoal,#096,Torkoal,Fire,null
+Sandshrew,#097,Sandshrew,Ground,null
+Sandslash,#098,Sandslash,Ground,null
+Aron,#099,Aron,Steel · Rock,null
+Lairon,#100,Lairon,Steel · Rock,null
+Aggron,#101,Aggron,Steel · Rock,null
+Larvitar,#102,Larvitar,Rock · Ground,null
+Pupitar,#103,Pupitar,Rock · Ground,null
+Tyranitar,#104,Tyranitar,Rock · Dark,null
+Heatmor,#105,Heatmor,Fire,null
+Durant,#106,Durant,Bug · Steel,null
+Spinarak,#107,Spinarak,Bug · Poison,null
+Ariados,#108,Ariados,Bug · Poison,null
+Spearow,#109,Spearow,Normal · Flying,null
+Fearow,#110,Fearow,Normal · Flying,null
+Cryogonal,#111,Cryogonal,Ice,null
+Skarmory,#112,Skarmory,Steel · Flying,null
+Noibat,#113,Noibat,Flying · Dragon,null
+Noivern,#114,Noivern,Flying · Dragon,null
+Gligar,#115,Gligar,Ground · Flying,null
+Gliscor,#116,Gliscor,Ground · Flying,null
+Hoothoot,#117,Hoothoot,Normal · Flying,null
+Noctowl,#118,Noctowl,Normal · Flying,null
+Igglybuff,#119,Igglybuff,Normal · Fairy,null
+Jigglypuff,#120,Jigglypuff,Normal · Fairy,null
+Wigglytuff,#121,Wigglytuff,Normal · Fairy,null
+Shuppet,#122,Shuppet,Ghost,null
+Banette,#123,Banette,Ghost,null
+Zorua,#124,Zorua,Dark,null
+Zoroark,#125,Zoroark,Dark,null
+Gothita,#126,Gothita,Psychic,null
+Gothorita,#127,Gothorita,Psychic,null
+Gothitelle,#128,Gothitelle,Psychic,null
+Bonsly,#129,Bonsly,Rock,null
+Sudowoodo,#130,Sudowoodo,Rock,null
+Spinda,#131,Spinda,Normal,null
+Teddiursa,#132,Teddiursa,Normal,null
+Ursaring,#133,Ursaring,Normal,null
+Lickitung,#134,Lickitung,Normal,null
+Lickilicky,#135,Lickilicky,Normal,null
+Scyther,#136,Scyther,Bug · Flying,null
+Scizor,#137,Scizor,Bug · Steel,null
+Ditto,#138,Ditto,Normal,null
+Swablu,#139,Swablu,Normal · Flying,null
+Altaria,#140,Altaria,Dragon · Flying,null
+Druddigon,#141,Druddigon,Dragon,null
+Deino,#142,Deino,Dark · Dragon,null
+Zweilous,#143,Zweilous,Dark · Dragon,null
+Hydreigon,#144,Hydreigon,Dark · Dragon,null
+Dratini,#145,Dratini,Dragon,null
+Dragonair,#146,Dragonair,Dragon,null
+Dragonite,#147,Dragonite,Dragon · Flying,null
+Xerneas,#148,Xerneas,Fairy,null
+Yveltal,#149,Yveltal,Dark · Flying,null
+Zygarde,#150,Zygarde,Dragon · Ground,null
+Mewtwo,#151,Mewtwo,Psychic,null
