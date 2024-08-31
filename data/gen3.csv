@@ -3,46 +3,46 @@ Treecko,#001,Treecko,Grass,null
 Grovyle,#002,Grovyle,Grass,null
 Sceptile,#003,Sceptile,Grass,null
 Torchic,#004,Torchic,Fire,null
-Combusken,#005,Combusken,Fire · Fighting,Fire · Fighting
-Blaziken,#006,Blaziken,Fire · Fighting,Fire · Fighting
+Combusken,#005,Combusken,Fire,Fighting
+Blaziken,#006,Blaziken,Fire,Fighting
 Mudkip,#007,Mudkip,Water,null
-Marshtomp,#008,Marshtomp,Water · Ground,Water · Ground
-Swampert,#009,Swampert,Water · Ground,Water · Ground
+Marshtomp,#008,Marshtomp,Water, Ground
+Swampert,#009,Swampert,Water,Ground
 Poochyena,#010,Poochyena,Dark,null
 Mightyena,#011,Mightyena,Dark,null
 Zigzagoon,#012,Zigzagoon,Normal,null
 Linoone,#013,Linoone,Normal,null
 Wurmple,#014,Wurmple,Bug,null
 Silcoon,#015,Silcoon,Bug,null
-Beautifly,#016,Beautifly,Bug · Flying,Bug · Flying
+Beautifly,#016,Beautifly,Bug,Flying
 Cascoon,#017,Cascoon,Bug,null
-Dustox,#018,Dustox,Bug · Poison,Bug · Poison
-Lotad,#019,Lotad,Water · Grass,null
-Lombre,#020,Lombre,Water · Grass,null
+Dustox,#018,Dustox,Bug,Poison
+Lotad,#019,Lotad,Water,Grass
+Lombre,#020,Lombre,Water,Grass
 Ludicolo,#021,Ludicolo,Water · Grass,null
 Seedot,#022,Seedot,Grass,null
-Nuzleaf,#023,Nuzleaf,Grass · Dark,Grass · Dark
-Shiftry,#024,Shiftry,Grass · Dark,Grass · Dark
-Taillow,#025,Taillow,Normal · Flying,null
-Swellow,#026,Swellow,Normal · Flying,null
-Wingull,#027,Wingull,Water · Flying,Water · Flying
-Pelipper,#028,Pelipper,Water · Flying,Water · Flying
+Nuzleaf,#023,Nuzleaf,Grass,Dark
+Shiftry,#024,Shiftry,Grass,Dark
+Taillow,#025,Taillow,Normal,Flying
+Swellow,#026,Swellow,Normal,Flying
+Wingull,#027,Wingull,Water,Flying
+Pelipper,#028,Pelipper,Water,Flying
 Ralts,#029,Ralts,Psychic,null
 Kirlia,#030,Kirlia,Psychic,null
 Gardevoir,#031,Gardevoir,Psychic,null
-Surskit,#032,Surskit,Bug · Water,Bug · Water
-Masquerain,#033,Masquerain,Bug · Flying,Bug · Flying
+Surskit,#032,Surskit,Bug,Water
+Masquerain,#033,Masquerain,Bug,Water
 Shroomish,#034,Shroomish,Grass,null
-Breloom,#035,Breloom,Grass · Fighting,Grass · Fighting
+Breloom,#035,Breloom,Grass,Fighting
 Slakoth,#036,Slakoth,Normal,null
 Vigoroth,#037,Vigoroth,Normal,null
 Slaking,#038,Slaking,Normal,null
 Abra,#039,Abra,Psychic,null
 Kadabra,#040,Kadabra,Psychic,null
 Alakazam,#041,Alakazam,Psychic,null
-Nincada,#042,Nincada,Bug · Ground,Bug · Ground
-Ninjask,#043,Ninjask,Bug · Flying,Bug · Flying
-Shedinja,#044,Shedinja,Bug · Ghost,Bug · Ghost
+Nincada,#042,Nincada,Bug,Ground
+Ninjask,#043,Ninjask,Bug,Flying
+Shedinja,#044,Shedinja,Bug,Ghost
 Whismur,#045,Whismur,Normal,null
 Loudred,#046,Loudred,Normal,null
 Exploud,#047,Exploud,Normal,null
@@ -51,58 +51,58 @@ Hariyama,#049,Hariyama,Fighting,null
 Goldeen,#050,Goldeen,Water,null
 Seaking,#051,Seaking,Water,null
 Magikarp,#052,Magikarp,Water,null
-Gyarados,#053,Gyarados,Water · Flying,Water · Flying
-Azurill,#054,Azurill,Normal,null
+Gyarados,#053,Gyarados,Water,Flying
+Azurill,#054,Azurill,Water,null
 Marill,#055,Marill,Water,null
 Azumarill,#056,Azumarill,Water,null
-Geodude,#057,Geodude,Rock · Ground,Rock · Ground
-Graveler,#058,Graveler,Rock · Ground,Rock · Ground
-Golem,#059,Golem,Rock · Ground,Rock · Ground
+Geodude,#057,Geodude,Rock,Ground
+Graveler,#058,Graveler,Rock,Ground
+Golem,#059,Golem,Rock,Ground
 Nosepass,#060,Nosepass,Rock,null
 Skitty,#061,Skitty,Normal,null
 Delcatty,#062,Delcatty,Normal,null
-Zubat,#063,Zubat,Poison · Flying,Poison · Flying
-Golbat,#064,Golbat,Poison · Flying,Poison · Flying
-Crobat,#065,Crobat,Poison · Flying,Poison · Flying
-Tentacool,#066,Tentacool,Water · Poison,Water · Poison
-Tentacruel,#067,Tentacruel,Water · Poison,Water · Poison
-Sableye,#068,Sableye,Dark · Ghost,Dark · Ghost
+Zubat,#063,Zubat,Poison,Flying
+Golbat,#064,Golbat,Poison,Flying
+Crobat,#065,Crobat,Poison,Flying
+Tentacool,#066,Tentacool,Water,Poison
+Tentacruel,#067,Tentacruel,Water,Poison
+Sableye,#068,Sableye,Dark,Ghost
 Mawile,#069,Mawile,Steel,null
-Aron,#070,Aron,Steel · Rock,Steel · Rock
-Lairon,#071,Lairon,Steel · Rock,Steel · Rock
-Aggron,#072,Aggron,Steel · Rock,Steel · Rock
+Aron,#070,Aron,Steel,Rock
+Lairon,#071,Lairon,Steel,Rock
+Aggron,#072,Aggron,Steel,Rock
 Machop,#073,Machop,Fighting,null
 Machoke,#074,Machoke,Fighting,null
 Machamp,#075,Machamp,Fighting,null
-Meditite,#076,Meditite,Fighting · Psychic,Fighting · Psychic
-Medicham,#077,Medicham,Fighting · Psychic,Fighting · Psychic
+Meditite,#076,Meditite,Fighting,Psychic
+Medicham,#077,Medicham,Fighting,Psychic
 Electrike,#078,Electrike,Electric,null
 Manectric,#079,Manectric,Electric,null
 Plusle,#080,Plusle,Electric,null
 Minun,#081,Minun,Electric,null
-Magnemite,#082,Magnemite,Electric · Steel,Electric · Steel
-Magneton,#083,Magneton,Electric · Steel,Electric · Steel
+Magnemite,#082,Magnemite,Electric,Steel
+Magneton,#083,Magneton,Electric,Steel
 Voltorb,#084,Voltorb,Electric,null
 Electrode,#085,Electrode,Electric,null
 Volbeat,#086,Volbeat,Bug,null
 Illumise,#087,Illumise,Bug,null
-Oddish,#088,Oddish,Grass · Poison,Grass · Poison
-Gloom,#089,Gloom,Grass · Poison,Grass · Poison
-Vileplume,#090,Vileplume,Grass · Poison,Grass · Poison
+Oddish,#088,Oddish,Grass,Poison
+Gloom,#089,Gloom,Grass,Poison
+Vileplume,#090,Vileplume,Grass,Poison
 Bellossom,#091,Bellossom,Grass,null
-Doduo,#092,Doduo,Normal · Flying,null
-Dodrio,#093,Dodrio,Normal · Flying,null
-Roselia,#094,Roselia,Grass · Poison,Grass · Poison
+Doduo,#092,Doduo,Normal,Flying
+Dodrio,#093,Dodrio,Normal,Flying
+Roselia,#094,Roselia,Grass,Poison
 Gulpin,#095,Gulpin,Poison,null
 Swalot,#096,Swalot,Poison,null
-Carvanha,#097,Carvanha,Water · Dark,Water · Dark
-Sharpedo,#098,Sharpedo,Water · Dark,Water · Dark
+Carvanha,#097,Carvanha,Water,Dark
+Sharpedo,#098,Sharpedo,Water,Dark
 Wailmer,#099,Wailmer,Water,null
 Wailord,#100,Wailord,Water,null
-Numel,#101,Numel,Fire · Ground,Fire · Ground
-Camerupt,#102,Camerupt,Fire · Ground,Fire · Ground
+Numel,#101,Numel,Fire,Ground
+Camerupt,#102,Camerupt,Fire,Ground
 Slugma,#103,Slugma,Fire,null
-Magcargo,#104,Magcargo,Fire · Rock,Fire · Rock
+Magcargo,#104,Magcargo,Fire,Rock
 Torkoal,#105,Torkoal,Fire,null
 Grimer,#106,Grimer,Poison,null
 Muk,#107,Muk,Poison,null
@@ -113,28 +113,28 @@ Grumpig,#111,Grumpig,Psychic,null
 Sandshrew,#112,Sandshrew,Ground,null
 Sandslash,#113,Sandslash,Ground,null
 Spinda,#114,Spinda,Normal,null
-Skarmory,#115,Skarmory,Steel · Flying,Steel · Flying
+Skarmory,#115,Skarmory,Steel,Flying
 Trapinch,#116,Trapinch,Ground,null
-Vibrava,#117,Vibrava,Ground · Dragon,Ground · Dragon
-Flygon,#118,Flygon,Ground · Dragon,Ground · Dragon
+Vibrava,#117,Vibrava,Ground,Dragon
+Flygon,#118,Flygon,Ground,Dragon
 Cacnea,#119,Cacnea,Grass,null
-Cacturne,#120,Cacturne,Grass · Dark,Grass · Dark
-Swablu,#121,Swablu,Normal · Flying,null
-Altaria,#122,Altaria,Dragon · Flying,Dragon · Flying
+Cacturne,#120,Cacturne,Grass,Dark
+Swablu,#121,Swablu,Normal,Flying
+Altaria,#122,Altaria,Dragon,Flying
 Zangoose,#123,Zangoose,Normal,null
 Seviper,#124,Seviper,Poison,null
-Lunatone,#125,Lunatone,Rock · Psychic,Rock · Psychic
-Solrock,#126,Solrock,Rock · Psychic,Rock · Psychic
-Barboach,#127,Barboach,Water · Ground,Water · Ground
-Whiscash,#128,Whiscash,Water · Ground,Water · Ground
+Lunatone,#125,Lunatone,Rock,Psychic
+Solrock,#126,Solrock,Rock,Psychic
+Barboach,#127,Barboach,Water,Ground
+Whiscash,#128,Whiscash,Water,Ground
 Corphish,#129,Corphish,Water,null
-Crawdaunt,#130,Crawdaunt,Water · Dark,Water · Dark
-Baltoy,#131,Baltoy,Ground · Psychic,Ground · Psychic
-Claydol,#132,Claydol,Ground · Psychic,Ground · Psychic
-Lileep,#133,Lileep,Rock · Grass,Rock · Grass
-Cradily,#134,Cradily,Rock · Grass,Rock · Grass
-Anorith,#135,Anorith,Rock · Bug,Rock · Bug
-Armaldo,#136,Armaldo,Rock · Bug,Rock · Bug
+Crawdaunt,#130,Crawdaunt,Water,Dark
+Baltoy,#131,Baltoy,Ground,Psychic
+Claydol,#132,Claydol,Ground,Psychic
+Lileep,#133,Lileep,Rock,Grass
+Cradily,#134,Cradily,Rock,Grass
+Anorith,#135,Anorith,Rock,Bug
+Armaldo,#136,Armaldo,Rock,Bug
 Igglybuff,#137,Igglybuff,Normal,null
 Jigglypuff,#138,Jigglypuff,Normal,null
 Wigglytuff,#139,Wigglytuff,Normal,null
@@ -142,13 +142,13 @@ Feebas,#140,Feebas,Water,null
 Milotic,#141,Milotic,Water,null
 Castform,#142,Castform,Normal,null
 Staryu,#143,Staryu,Water,null
-Starmie,#144,Starmie,Water · Psychic,Water · Psychic
+Starmie,#144,Starmie,Water,Psychic
 Kecleon,#145,Kecleon,Normal,null
 Shuppet,#146,Shuppet,Ghost,null
 Banette,#147,Banette,Ghost,null
 Duskull,#148,Duskull,Ghost,null
 Dusclops,#149,Dusclops,Ghost,null
-Tropius,#150,Tropius,Grass · Flying,Grass · Flying
+Tropius,#150,Tropius,Grass,Flying
 Chimecho,#151,Chimecho,Psychic,null
 Absol,#152,Absol,Dark,null
 Vulpix,#153,Vulpix,Fire,null
@@ -160,44 +160,44 @@ Psyduck,#158,Psyduck,Water,null
 Golduck,#159,Golduck,Water,null
 Wynaut,#160,Wynaut,Psychic,null
 Wobbuffet,#161,Wobbuffet,Psychic,null
-Natu,#162,Natu,Psychic · Flying,Psychic · Flying
-Xatu,#163,Xatu,Psychic · Flying,Psychic · Flying
-Girafarig,#164,Girafarig,Normal · Psychic,Normal · Psychic
+Natu,#162,Natu,Psychic,Flying
+Xatu,#163,Xatu,Psychic,Flying
+Girafarig,#164,Girafarig,Normal,Psychic
 Phanpy,#165,Phanpy,Ground,null
 Donphan,#166,Donphan,Ground,null
 Pinsir,#167,Pinsir,Bug,null
-Heracross,#168,Heracross,Bug · Fighting,Bug · Fighting
-Rhyhorn,#169,Rhyhorn,Ground · Rock,Ground · Rock
-Rhydon,#170,Rhydon,Ground · Rock,Ground · Rock
+Heracross,#168,Heracross,Bug,Fighting
+Rhyhorn,#169,Rhyhorn,Ground,Rock
+Rhydon,#170,Rhydon,Ground,Rock
 Snorunt,#171,Snorunt,Ice,null
 Glalie,#172,Glalie,Ice,null
-Spheal,#173,Spheal,Ice · Water,Ice · Water
-Sealeo,#174,Sealeo,Ice · Water,Ice · Water
-Walrein,#175,Walrein,Ice · Water,Ice · Water
+Spheal,#173,Spheal,Ice,Water
+Sealeo,#174,Sealeo,Ice,Water
+Walrein,#175,Walrein,Ice,Water
 Clamperl,#176,Clamperl,Water,null
 Huntail,#177,Huntail,Water,null
 Gorebyss,#178,Gorebyss,Water,null
-Relicanth,#179,Relicanth,Water · Rock,Water · Rock
-Corsola,#180,Corsola,Water · Rock,Water · Rock
-Chinchou,#181,Chinchou,Water · Electric,Water · Electric
-Lanturn,#182,Lanturn,Water · Electric,Water · Electric
+Relicanth,#179,Relicanth,Water,Rock
+Corsola,#180,Corsola,Water,Rock
+Chinchou,#181,Chinchou,Water,Electric
+Lanturn,#182,Lanturn,Water,Electric
 Luvdisc,#183,Luvdisc,Water,null
 Horsea,#184,Horsea,Water,null
 Seadra,#185,Seadra,Water,null
-Kingdra,#186,Kingdra,Water · Dragon,Water · Dragon
+Kingdra,#186,Kingdra,Water,Dragon
 Bagon,#187,Bagon,Dragon,null
 Shelgon,#188,Shelgon,Dragon,null
-Salamence,#189,Salamence,Dragon · Flying,Dragon · Flying
-Beldum,#190,Beldum,Steel · Psychic,Steel · Psychic
-Metang,#191,Metang,Steel · Psychic,Steel · Psychic
-Metagross,#192,Metagross,Steel · Psychic,Steel · Psychic
+Salamence,#189,Salamence,Dragon,Flying
+Beldum,#190,Beldum,Steel,Psychic
+Metang,#191,Metang,Steel,Psychic
+Metagross,#192,Metagross,Steel,Psychic
 Regirock,#193,Regirock,Rock,null
 Regice,#194,Regice,Ice,null
 Registeel,#195,Registeel,Steel,null
-Latias,#196,Latias,Dragon · Psychic,Dragon · Psychic
-Latios,#197,Latios,Dragon · Psychic,Dragon · Psychic
+Latias,#196,Latias,Dragon,Psychic
+Latios,#197,Latios,Dragon,Psychic
 Kyogre,#198,Kyogre,Water,null
 Groudon,#199,Groudon,Ground,null
-Rayquaza,#200,Rayquaza,Dragon · Flying,Dragon · Flying
-Jirachi,#201,Jirachi,Steel · Psychic,Steel · Psychic
+Rayquaza,#200,Rayquaza,Dragon,Flying
+Jirachi,#201,Jirachi,Steel,Psychic
 Deoxys,#202,Deoxys,Psychic,null
